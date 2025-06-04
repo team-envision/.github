@@ -1,6 +1,6 @@
 # Welcome to Team Envision's GitHub Repository!
 
-![Team Envision Logo](https://envision.aaruush.org/favicon.svg)
+![Team Envision Logo](https://github.com/user-attachments/assets/00227873-4e35-4e38-a2c7-730e2a55c7ad)
 
 ## About Team Envision
 
