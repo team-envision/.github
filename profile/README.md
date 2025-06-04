@@ -1,6 +1,7 @@
 # Welcome to Team Envision's GitHub Repository!
 
-![Team Envision Logo]([https://aaruush22-bucket.s3.ap-south-1.amazonaws.com/a/a2422-27e4cc56.webp])
+![Team Envision Logo](https://github.com/user-attachments/assets/00227873-4e35-4e38-a2c7-730e2a55c7ad)
+
 
 ## About Team Envision
 
